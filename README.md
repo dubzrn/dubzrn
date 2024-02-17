@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/master/header.png" alt="Banner with Natalia Ryabova's name and title">
+  <img src="https://raw.githubusercontent.com/dubzrn/dubzrn/master/header.png" alt="Natalia Ryabova">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Natalia Ryabova</h1>

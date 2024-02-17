@@ -30,7 +30,7 @@ I'm Natalia Ryabova, currently pursuing my Bachelor's Degree in Computer Science
 ---
 
 <a name="education"></a>
-## 🏫 Education
+## 🏫 College Education
 
 **Harper College** \
 _Bachelor of Science in Computer Science_ \

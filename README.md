@@ -58,7 +58,7 @@ Relevant Coursework: Data Structures, Web Development, Database Management
 - **E-commerce Store** - A full-stack application simulating an online store, including a shopping cart and user authentication.
 - **Blog Platform** - A content management system for publishing articles and blog posts.
 
-_...and many more to comde on my [GitHub repositories](https://github.com/dubzrn)!_
+_...and many more to come on my [GitHub repositories](https://github.com/dubzrn) page!_
 
 ---
 
@@ -84,4 +84,4 @@ _...and many more to comde on my [GitHub repositories](https://github.com/dubzrn
 <a name="interests"></a>
 ## 🌐 Interests
 
-I am deeply interested in user experience design, accessibility, and creating inclusive web applications that cater to a diverse user base. I also have a passion for learning about emerging web technologies and keeping up with industry trends.
+I'm deeply interested in user experience design, accessibility, and creating inclusive web applications that cater to a diverse user base. I also have a passion for learning about emerging web technologies and keeping up with industry trends.

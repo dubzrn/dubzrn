@@ -25,7 +25,7 @@
 <a name="about_me"></a>
 ## 👤 About Me
 
-I'm Natalia Ryabova, currently aiding with programming cirricula while pursuing my Bachelor's Degree in Computer Science at Harper College in Palatine, Illinois. I am both a tech enthusiast and a creative mind, aiming to bridge the gap between technology and people through elegant and efficient web solutions. When I'm not coding or studying, I enjoy contributing to open source and engaging with the tech community.
+I'm Natalia Ryabova, currently assisting with Programming and Web Development cirricula while pursuing my Bachelor's Degree in Computer Science at Harper College in Palatine, Illinois. I'm an experienced (almost) full-stack programmer, a tech enthusiast and a creative mind, aiming to bridge the gap between technology and people through elegant and efficient web solutions. When I'm not coding or studying, I enjoy contributing to open source and engaging with the tech community across my favorite forums.
 
 ---
 
@@ -33,7 +33,7 @@ I'm Natalia Ryabova, currently aiding with programming cirricula while pursuing 
 ## 🏫 College Education
 
 **Harper College** \
-_Programming and Web Develpment, Educator Assistant_ \
+_Programming and Web Develpment, Teacher's Assistant_ \
 _Bachelor of Science in Computer Science_ \
 September 2021 - May 2025 \
 Relevant Coursework: Data Structures, Web Development, Database Management

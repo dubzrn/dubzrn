@@ -67,7 +67,7 @@ _...and many more to come on my [GitHub repositories](https://github.com/dubzrn)
 
 - **Web Developer Intern** \
   _Innovative Web Solutions, Palatine, IL_ \
-  June 2022 - August 2022 \
+  June 2022 - Current \
   Worked on frontend development tasks, improved website responsiveness, and implemented SEO best practices.
 
 ---

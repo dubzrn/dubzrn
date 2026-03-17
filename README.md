@@ -5,10 +5,6 @@
 <h1 align="center">Hi there 👋, I'm Natalia Ryabova</h1>
 <h3 align="center">A passionate and aspiring web developer from Harper College</h3>
 
-<p align="center">
-  • <a href="https://github.com/dubzrn">GitHub</a> 
-</p>
-
 ---
 
 ## 📑 Table of Contents
